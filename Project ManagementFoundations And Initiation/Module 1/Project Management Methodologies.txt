@@ -1,0 +1,85 @@
+Question 1
+Which project management knowledge area happens across the entire lifecycle and happens continuously? (Please select best answer) 
+
+
+Project Integration Management
+
+Project Cost Management
+
+Project Procurement Management
+
+Project Resource Management
+
+Project Communications Management
+
+Project Risk Management
+
+Project Stakeholder Management
+
+Project Scope Management
+
+Project Quality Management 
+
+Project Schedule Management
+
+Correct-
+Project Integration Management
+
+
+
+Question 2
+What is the role of the Project Manager? The Project Manager has many responsibilities. The role of the project manager aligns with the Project Management Process Groups. From the list below, please select the Project Management Process Groups. (Select all that apply). 
+
+
+Documenting 
+
+Initiating
+
+Executing 
+
+Leadership
+
+Monitoring & Controlling
+
+Quality Assurance
+
+Stakeholder Management 
+
+Closing
+
+Planning 
+
+Project Charter
+
+Correct-Initiating, Planning, Executing, Monitoring & Controlling, Closing
+
+
+Question 3
+Please select an appropriate project management methodology for the following scenario: (Select best answer)
+
+
+You are developing a new product with both a well-defined hardware requirement and software requirement that still needs significant customer input. 
+
+
+Hybrid
+
+Traditional / Waterfall 
+
+Agile
+
+Correct-Hybrid
+
+
+Question 4
+Please select an appropriate project management methodology for the following scenario: (Select best answer)
+
+You are developing an update to your company’s mobile application. Delivery of the update will incorporate a variety of small, incremental improvements that need to be released as they become available. 
+
+
+Agile
+
+Hybrid
+
+Traditional / Waterfall
+
+Correct- Agile
